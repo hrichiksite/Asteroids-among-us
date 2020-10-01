@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+ This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 Data from: https://data.nasa.gov/resource/y77d-th95.json
 
 Below you will find some information on how to perform common tasks.<br>
